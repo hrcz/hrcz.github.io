@@ -1,0 +1,86 @@
+body{
+    color: #44476a;
+    background-color: #e6e7ee;
+}
+
+.container{
+    height: 90%;
+    width: 90%;
+    margin-top: 40px;
+    padding: 30px;
+
+  border-radius: 40px;
+  background:  #e6e7ee; 
+  box-shadow: 3px 3px 6px #b8b9be,-3px -3px 6px #fff;
+}
+
+.nav{
+    border-radius: 40px;
+    /* box-shadow: 13px 13px 20px #cbced1,
+              -13px -13px 20px #ffffff; */
+    padding: 7px;
+}
+
+.nav-pills .nav-link{
+    border-radius: 10px;
+    box-shadow: 3px 3px 6px #b8b9be,
+                -3px -3px 6px #fff;
+    margin-right: 15px;
+    border-color: #e6e7ee;
+}
+
+.nav-pills .nav-link:hover{
+    background-color: #e6e7ee;
+    border-color: #e6e7ee;
+    box-shadow: inset 3px 3px 6px #b8b9be, inset -3px -3px 6px #fff;;
+}
+
+.btn-2{
+    padding: 20px;
+    margin-right: 10px;
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+    background: #e6e7ee;
+    box-shadow: 3px 3px 6px #b8b9be, -3px -3px 6px #fff;
+}
+
+.btn-2:hover{
+    cursor:pointer;
+    box-shadow: 3px 3px 6px #b8b9be, -3px -3px 6px #fff;
+    color: white;
+}
+
+.facebook:hover {
+    background: #3b5998;
+  }
+  
+  .twitter:hover {
+    background: #1da1f2;
+  }
+  
+  .instagram:hover {
+    background:linear-gradient(135deg, #405de6, #5851db, #833ab4, #c13584, #e1306c, #fd1d1d);
+  }
+  
+  .github:hover {
+    background: black;
+  }
+
+  .card{
+      border-radius: 20px;
+      box-shadow: 3px 3px 6px #b8b9be, -3px -3px 6px #fff;
+      background-color: #e6e7ee;
+  }
+
+  .card-img, .card-img-top{
+    border-radius: 20px;
+  }
+
+  .skill-box{
+    width:100px;
+    height:100px;
+    background-color: #e6e7ee;
+    box-shadow: inset 3px 3px 6px #b8b9be, inset -3px -3px 6px #fff;
+    line-height: 100px;
+  }
