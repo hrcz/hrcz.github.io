@@ -32,7 +32,7 @@ body{
 .nav-pills .nav-link:hover{
     background-color: #e6e7ee;
     border-color: #e6e7ee;
-    box-shadow: inset 3px 3px 6px #b8b9be, inset -3px -3px 6px #fff;;
+    box-shadow: inset 3px 3px 6px #b8b9be, inset -3px -3px 6px #fff;
 }
 
 .btn-2{
@@ -83,4 +83,22 @@ body{
     background-color: #e6e7ee;
     box-shadow: inset 3px 3px 6px #b8b9be, inset -3px -3px 6px #fff;
     line-height: 100px;
+  }
+
+  .prize-box{
+    width:100px;
+    height:100px;
+    background-color: #e6e7ee;
+    box-shadow: inset 3px 3px 6px #b8b9be, inset -3px -3px 6px #fff;
+    line-height: 100px;
+    border-radius: 20%;
+  }
+  
+  .photo-box{
+    width:100px;
+    height:100px;
+    background-color: #e6e7ee;
+    box-shadow: 3px 3px 6px #b8b9be, -3px -3px 6px #fff;
+    line-height: 100px;
+    border-radius: 100%;
   }
